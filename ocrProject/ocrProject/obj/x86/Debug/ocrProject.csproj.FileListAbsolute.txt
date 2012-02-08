@@ -1,0 +1,8 @@
+D:\Programming\univ\git\OCRserver\ocrProject\ocrProject\bin\Debug\ocrProject.exe
+D:\Programming\univ\git\OCRserver\ocrProject\ocrProject\bin\Debug\ocrProject.pdb
+D:\Programming\univ\git\OCRserver\ocrProject\ocrProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\univ\git\OCRserver\ocrProject\ocrProject\obj\x86\Debug\ocrProject.Properties.Resources.resources
+D:\Programming\univ\git\OCRserver\ocrProject\ocrProject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programming\univ\git\OCRserver\ocrProject\ocrProject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programming\univ\git\OCRserver\ocrProject\ocrProject\obj\x86\Debug\ocrProject.exe
+D:\Programming\univ\git\OCRserver\ocrProject\ocrProject\obj\x86\Debug\ocrProject.pdb
